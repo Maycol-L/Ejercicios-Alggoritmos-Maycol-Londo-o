@@ -4,5 +4,6 @@ Algoritmo InteresesCDT
 	leer dinero
 	escribir "cuales el interes del CDT"
 	leer interes
-//	escribir "a que periodpo de tiempo esta en dia
+	escribir "a que periodpo de tiempo esta en dia
 FinAlgoritmo
+
