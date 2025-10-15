@@ -1,2 +1,6 @@
-# Ejercicios-Alggoritmos-Maycol-Londo-o
-22 ejeccicios de algoritmos y programacion
+# Ejercicios-Alggoritmos-Maycol-Londono
+
+Este repositorio contiene mis soluciones a los ejercicios vistos en clase.
+- Lenguaje: PSeInt / Python
+- Curso: Algoritmos y Programación
+- Profesor: Norbey Danilo Muñoz
